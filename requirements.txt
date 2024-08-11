@@ -1,6 +1,6 @@
 aiofiles
 aiohttp==3.9.3
-asyncio==3.4.3
+asyncio3.4.3
 beautifulsoup4
 dnspython
 ffmpeg-python
@@ -22,6 +22,7 @@ speedtest-cli
 spotipy
 tgcrypto
 urllib3
+yt-dlp/yt-dlp==2024.08.06
 git+https://github.com/KurimuzonAkuma/pyrogram@dev
 git+https://github.com/yt-dlp/yt-dlp
 git+https://github.com/alexmercerind/youtube-search-python@main
